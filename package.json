@@ -1,0 +1,24 @@
+{
+  "name": "loancalctutorial",
+  "version": "1.0.0",
+  "description": "loan calc tutorial using js  the html part is premade but I will type it in and grok it div by div",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odiepus/loanCalcTutorial.git"
+  },
+  "author": "Hector Herrera  tutorial: https://youtu.be/5endsOnJ6R4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odiepus/loanCalcTutorial/issues"
+  },
+  "homepage": "https://github.com/odiepus/loanCalcTutorial#readme",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
